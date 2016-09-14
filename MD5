@@ -1,0 +1,10 @@
+cb2ae8642c00f608d94c0a39cede07ef *DESCRIPTION
+c4a3e95f380db89cf43f2906830609e3 *NAMESPACE
+69ec8bb54d250e9208f9459bb6b694e4 *R/distributions.R
+764e1de506de532e8deaf953c389279c *R/qqslider.R
+d986cdc0b4fbcd5f15a50f340c771007 *R/vases.R
+73850c37c3e3b6c407558c6f9fe7f29c *man/make_df_list.Rd
+b6eca9780d2f8f75fcf1f0e84dfa23fe *man/qq_plot.Rd
+5c75564371c4e2a6040f252be19c759b *man/qq_vase_plot.Rd
+d7021209c516693660e76cf4a4ad8745 *man/qqvases.Rd
+7d85f8f5b8fcbb8c54d07052e39e2b3f *man/side_by_side_slider.Rd
